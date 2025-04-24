@@ -1,4 +1,4 @@
-## Exercise 1
+## MJD1
 ## Vairable Declarations
 m = 1
 p = "Frame"
